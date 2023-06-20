@@ -26,6 +26,13 @@ Driven full-stack developer with a passion for optimizing the performance of use
 - Improved the performance and stability of client applications by debugging and resolving complex issues, resulting in a 50% reduction in bug reports and increased user satisfaction.
 - Took initiative to develop a new administration panel for approving course addition requests and overall management of the FillyLearning website, which streamlined internal workflows and increased team productivity by 25%.
 
+**Junior Front-end Developer**\
+Marque Studios, Accra, Ghana | July 2016 - August 2018
+
+- Collaborated with senior developers to design and develop new features for a web application using HTML, CSS, JavaScript, and React.
+- Contributed to the development and maintenance of the company's REST API using PHP Laravel.
+- Participated in code reviews and collaborated with team members to ensure code quality and adherence to best practices.
+
 ### Skills
 
 - PHP Laravel
@@ -50,13 +57,6 @@ Ghana Communication Technology University, Tesano, Ghana | August 2018 - Decembe
 
 - Awards: 1st Runner Up in Association of Computing Students' CodeFest among 24 students. Developed an information portal with a post and comment feature to allow students to seek help from their peers and faculty.
 - Elected Public Relations Officer of the Student Representative Council in 2021.
-
-**Junior Front-end Developer**\
-Marque Studios, Accra, Ghana | July 2016 - August 2018
-
-- Collaborated with senior developers to design and develop new features for a web application using HTML, CSS, JavaScript, and React.
-- Contributed to the development and maintenance of the company's REST API using PHP Laravel.
-- Participated in code reviews and collaborated with team members to ensure code quality and adherence to best practices.
 
 ### Certifications
 
