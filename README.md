@@ -27,7 +27,7 @@ Driven full-stack developer with a passion for optimizing the performance of use
 - Took initiative to develop a new administration panel for approving course addition requests and overall management of the FillyLearning website, which streamlined internal workflows and increased team productivity by 25%.
 
 **Junior Front-end Developer**\
-Marque Studios, Accra, Ghana | July 2016 - August 2018
+[Marque Studios](https://marqueonline.com.gh/) | July 2016 - August 2018
 
 - Collaborated with senior developers to design and develop new features for a web application using HTML, CSS, JavaScript, and React.
 - Contributed to the development and maintenance of the company's REST API using PHP Laravel.
