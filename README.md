@@ -9,7 +9,7 @@ Driven full-stack developer with a passion for optimizing the performance of use
 ### Experience
 
 **Full-Stack Developer**\
-[Zuberi Technologies LLC](https://www.zuberitech.com/) | November 2022 - Present
+[Zuberi Technologies LLC](https://tryzuberi.com/) | November 2022 - Present
 
 - Successfully managed integrations with payment gateways for recurring billings, disbursement, and collection across multiple products.
 - Developed and maintained comprehensive documentation outlining integration processes, troubleshooting steps, and best practices.
